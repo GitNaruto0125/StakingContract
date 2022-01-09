@@ -1,0 +1,16 @@
+{
+  "_format": "hh-sol-artifact-1",
+  "contractName": "Context",
+  "sourceName": "contracts/FPIGToken.sol",
+  "abi": [
+    {
+      "inputs": [],
+      "stateMutability": "nonpayable",
+      "type": "constructor"
+    }
+  ],
+  "bytecode": "0x6080604052348015600f57600080fd5b50603f80601d6000396000f3fe6080604052600080fdfea2646970667358221220bdd4cdf479fd01d722695dd574278684699810233ab8a7bd9b6e4c8ba1fc8d5064736f6c63430008000033",
+  "deployedBytecode": "0x6080604052600080fdfea2646970667358221220bdd4cdf479fd01d722695dd574278684699810233ab8a7bd9b6e4c8ba1fc8d5064736f6c63430008000033",
+  "linkReferences": {},
+  "deployedLinkReferences": {}
+}
